@@ -1,0 +1,8 @@
+.nav{
+    margin-top: 1vh;
+}
+.nav .container{
+    display: flex;
+    flex-direction: row;
+    height: 6vh;
+}
